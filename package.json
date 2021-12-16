@@ -1,0 +1,14 @@
+{
+  "name": "event-test",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^9.4.2"
+  },
+  "dependencies": {
+    "@architect/functions": "^4.1.1"
+  }
+}
